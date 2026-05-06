@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:8000/submit";
+const API_URL = "https://planet-ganges-009n.onrender.com/submit";
 
 const questions = [
   "I make decisions quickly",
